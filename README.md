@@ -1,47 +1,77 @@
-<h1 align="center"> AMBILY BIJU </h1>
-<h3 align="center">Data Science Intern at Datahut</h3>
+<h1 align="center">Hi 👋, I'm Ambily Biju</h1>
+<h3 align="center">Data Science Enthusiast | Python Programmer | Web Scraping Specialist</h3>
 
-[![Email](https://img.shields.io/badge/Email-ambilybiju2408@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:ambilybiju2408@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ambily-biju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ambily biju" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:ambilybiju2408@gmail.com"><img src="https://img.shields.io/badge/Email-ambilybiju2408%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/ambilynanjilath"><img src="https://img.shields.io/badge/GitHub-ambilynanjilath-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ambily-biju/"><img src="https://img.shields.io/badge/LinkedIn-Ambily%20Biju-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://ambilybiju.snapcv.me/"><img src="https://img.shields.io/badge/Portfolio-Ambily%20Biju-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+---
 
+### 👩‍💻 About Me
+Data Science Intern with expertise in data analysis, web scraping, and Python programming. Proficient in designing efficient data pipelines and data preprocessing using tools like pandas and scikit-learn. Strong analytical skills and passionate about solving complex problems with data-driven solutions.
+
+---
+
+### 🛠️ Technical Skills
+- **Programming Language**: Python
+- **Machine Learning**: Classification, Regression, Clustering
+- **Deep Learning**: ANN, CNN, RNN, LSTM, NLP
+- **Web Scraping**: Beautiful Soup, Requests, Selenium, Playwright, Scrapy
+- **Data Manipulation**: Pandas, NumPy, OpenRefine
+- **Data Visualization**: Matplotlib, Seaborn, Power BI, Metabase
+- **Database Management**: SQLite, MySQL
+- **Development Tools**: Jupyter Notebook, PyCharm, VS Code
+- **Version Control**: GitHub
+
+---
+
+### 💼 Work Experience
+**Data Science Intern** - *Datahut*  
+*May 2024 - Present*  
+- Leveraged Python libraries such as Playwright, Selenium, Scrapy, Beautiful Soup, and Requests to optimize web scraping processes and enhance efficiency.
+- Transformed unstructured data into clean, structured formats using OpenRefine and Python, ensuring data integrity.
+- Conducted exploratory data analysis (EDA) to uncover patterns, trends, and actionable insights for data-driven decision-making.
+
+---
+
+### 🚀 Projects
+#### [UserAgentFilter](https://github.com/ambilynanjilath/UserAgentFilter) | [pip](https://pypi.org/project/UserAgentFilter/)
+- Developed a Python package to efficiently test user agents across websites with error handling, proxy support, and detailed logging.
+- Enhanced web scraping reliability by automating user agent management.
+
+#### [FeatureRefiner](https://github.com/ambilynanjilath/FeatureRefiner) | [pip](https://pypi.org/project/FeatureRefiner/)
+- Created FeatureRefiner, a comprehensive data preprocessing library that includes scaling, imputation, encoding, and feature engineering.
+- Designed with a user-friendly interface for easy DataFrame manipulation, suitable for both technical and non-technical users.
+
+---
+
+### 🎓 Education
+**B.Sc Mathematics**  
+*Kannur University*  
+Graduated with 76%
+
+---
+
+### 📜 Certifications
+**Diploma in Big Data Analytics and Data Science**  
+*Luminar Technolab, Kochi, Kerala, India*  
+*January 2023 - December 2023*  
+- Mastered data cleaning, analysis, and modeling.
+- Gained hands-on experience in machine learning algorithms for classification, regression, and clustering.
+- Learned deep learning techniques for image recognition and NLP.
+- Applied computer vision for image processing and object detection.
+- Developed proficiency in data visualization using Power BI.
+- Skilled in data preprocessing and large dataset handling with Hadoop and Spark.
+
+---
+
+### 🌐 Languages
+- English
+- Malayalam
+
+---
+
+Feel free to reach out or explore my projects and contributions!
