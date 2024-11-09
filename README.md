@@ -15,16 +15,45 @@ Data Science Intern with expertise in data analysis, web scraping, and Python pr
 
 ---
 
-### 🛠️ Technical Skills
-- **Programming Language**: Python
-- **Machine Learning**: Classification, Regression, Clustering
-- **Deep Learning**: ANN, CNN, RNN, LSTM, NLP
-- **Web Scraping**: Beautiful Soup, Requests, Selenium, Playwright, Scrapy
-- **Data Manipulation**: Pandas, NumPy, OpenRefine
-- **Data Visualization**: Matplotlib, Seaborn, Power BI, Metabase
-- **Database Management**: SQLite, MySQL
-- **Development Tools**: Jupyter Notebook, PyCharm, VS Code
-- **Version Control**: GitHub
+<h3>🛠️ Technical Skills</h3>
+<p>
+  <!-- Programming Language -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  <!-- Machine Learning -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  
+  <!-- Deep Learning -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+
+  <!-- Web Scraping -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python (Web Scraping)" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Beautifulsoup_logo.png" alt="Beautiful Soup" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+  
+  <!-- Data Manipulation -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+
+  <!-- Data Visualization -->
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  
+  <!-- Database Management -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
+  <!-- Development Tools -->
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
+  <!-- Version Control -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
 
 ---
 
