@@ -67,11 +67,12 @@ Data Science Intern with expertise in data analysis, web scraping, and Python pr
 ---
 
 ### 🚀 Projects
-#### [UserAgentFilter](https://github.com/ambilynanjilath/UserAgentFilter) | [pip](https://pypi.org/project/UserAgentFilter/)
+
+#### ![logo](path/to/logo.png) [UserAgentFilter](https://github.com/ambilynanjilath/UserAgentFilter) | [pip](https://pypi.org/project/UserAgentFilter/)
 - Developed a Python package to efficiently test user agents across websites with error handling, proxy support, and detailed logging.
 - Enhanced web scraping reliability by automating user agent management.
 
-#### [FeatureRefiner](https://github.com/ambilynanjilath/FeatureRefiner) | [pip](https://pypi.org/project/FeatureRefiner/)
+#### ![logo](path/to/logo.jpeg) [FeatureRefiner](https://github.com/ambilynanjilath/FeatureRefiner) | [pip](https://pypi.org/project/FeatureRefiner/)
 - Created FeatureRefiner, a comprehensive data preprocessing library that includes scaling, imputation, encoding, and feature engineering.
 - Designed with a user-friendly interface for easy DataFrame manipulation, suitable for both technical and non-technical users.
 
