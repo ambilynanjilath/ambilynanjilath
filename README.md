@@ -1,3 +1,7 @@
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
 ![logo](https://github.com/JinshiAshok/JinshiAshok/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Jinshi N</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
